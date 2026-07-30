@@ -1,6 +1,6 @@
 # 👋 Welcome to Abdulrahman's Profile
 
-### 📚 Computer Science Student | 
+### 📚 Computer Science Student ||| 
 
 ---
 
