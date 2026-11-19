@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full+Stack+Developer;Solving+problems+on+Codeforces;Aiming+to+contribute+to+open+source" alt="Typing SVG" />
 </p>
 ---
- 
+
 ## 👨‍💻 About me
  
 I'm a third-year Computer Science student, passionate about programming and problem solving.
@@ -109,7 +109,7 @@ and I'm aiming to grow into a **Full Stack Developer** who is comfortable on bot
   <a href="https://github.com/Abdulrahmanmohammad06"><img src="https://img.shields.io/badge/GitHub-Abdulrahmanmohammad06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/abdulrahman-hussinat-800a97379/"><img src="https://img.shields.io/badge/LinkedIn-Abdulrahman%20Mohammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/coder.abdulrahman/"><img src="https://img.shields.io/badge/Instagram-coder.abdulrahman-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:hussinatabood46@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hussinatabood46@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdulrahmanmohammad06&label=Profile%20views&color=a855f7&style=flat" alt="Profile views" />
