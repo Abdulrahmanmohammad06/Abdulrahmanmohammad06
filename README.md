@@ -79,10 +79,10 @@ and I'm aiming to grow into a **Full Stack Developer** who is comfortable on bot
       <p>A console game of Rock, Paper, Scissors built in Visual Studio.</p>
       <sub><b>C++ • Visual Studio</b></sub>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Abdulrahmanmohammad06/Math-Game-Project">Math Game</a></h3>
-      <p>A console math game that tests your arithmetic skills, built in Visual Studio.</p>
-      <sub><b>C++ • Visual Studio</b></sub>
+   <td width="50%" valign="top">
+      <h3><a href="https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects">OOP Core Utility Projects</a></h3>
+      <p>A growing collection of reusable C++ libraries built with OOP: String, Date, Period, Utility, and Input & Validation, plus a full Bank System project that uses them.</p>
+      <sub><b>C++ • OOP • Reusable Libraries</b></sub>
     </td>
   </tr>
 </table>
